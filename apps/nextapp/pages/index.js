@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       {/*Output the site title and subtitle to the screen*/}
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Monorepo - Deployed</h1>
+        <h1 className={styles.title}>Welcome to Monorepo - Backend Edition</h1>
       </main>
     </div>
   );
